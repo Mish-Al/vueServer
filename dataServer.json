@@ -1,0 +1,34 @@
+{
+    "chips": [
+        {
+            "id": " 1 ",
+            "name": "iPhone 14 Pro Max",
+            "imageUrl": "https://i.postimg.cc/XNkHdTcC/Apple-i-Phone-14-Pro-Max-FINAL-featured-image-packshot-review-1-removebg-preview.png",
+            "price": "R 30 399.00"
+        },
+        {
+            "id": " 2 ",
+            "name": "Samsung Galaxy S23 Ultra",
+            "imageUrl": "https://i.postimg.cc/YSvZxbqw/Samsung-Galaxy-S23-Ultra-featured-image-packshot-review-1024x691-removebg-preview.png",
+            "price": "R 28 999.00"
+        },
+        {
+            "id": " 3 ",
+            "name": "Xiaomi 13 Ultra",
+            "imageUrl": "https://i.postimg.cc/VkfcXqCY/pms-1677071738-62061206-800x800-85-removebg-preview.png",
+            "price": "R 30 136.00"
+        },
+        {
+            "id": " 4 ",
+            "name": "OPPO Find X6 Pro",
+            "imageUrl": "https://i.postimg.cc/CLDKcs5k/Oppo-Find-X6-Pro-featured-image-packshot-review-removebg-preview.png",
+            "price": "R 19 000.00"
+        },
+        {
+            "id": " 5 ",
+            "name": "Google Pixel 7 Pro ",
+            "imageUrl": "https://i.postimg.cc/CxCxgG3D/Google-Pixel-7-featured-image-packshot-review-removebg-preview.png",
+            "price": "R 31 442.00"
+        }
+    ]
+}
